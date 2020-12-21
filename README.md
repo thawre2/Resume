@@ -57,3 +57,6 @@ Without index.html, webpage cannot be seen.
 * book.jpg
 * tokyo.jpg
 * img_avatar2.png
+
+## Link for github
+https://thawre2.github.io/Resume/
